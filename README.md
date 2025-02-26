@@ -71,5 +71,5 @@ docker compose up
 
 ### Авторы
 
-* [Егор Онищук](https://gitlab.skillbox.ru/egor_onishchuk "Профиль в GitLab") — разработка, тестирование и
+* [Егор Онищук](https://github.com/EgorOnishchuk "Профиль в GitHub") — разработка, тестирование и
   документирование
