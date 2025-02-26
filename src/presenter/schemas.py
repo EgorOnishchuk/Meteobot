@@ -1,3 +1,7 @@
+"""
+Схемы валидации и сериализации данных могут также выполнять роль DTO.
+"""
+
 from abc import ABC, abstractmethod
 from collections.abc import Awaitable, Callable
 from datetime import datetime
